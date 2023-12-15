@@ -11,4 +11,4 @@ outras curiosidades.
 
 ##Autor
 
-- <a href="https://github.com/gustavoguanabara" target="_Blank>GabrielSantos789</a>
+- <a href="https://github.com/GabrielSantos789" target="_Blank>@GabrielSantos789</a>
